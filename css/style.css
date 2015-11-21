@@ -1,0 +1,462 @@
+
+
+header {
+	background-color: #666;
+	height: 650px;
+}
+
+header span {
+	color: #FFF;
+	font-size: 80px;
+	float:left;
+}
+
+
+
+
+
+
+.header_up {
+	background-color:#000000;
+}
+
+.header_logo {}
+
+.header_menu {padding-top:10px;}
+
+
+
+.header_logo  h2{color:white;}
+
+.header_menu a {
+	color: #FFF;
+	font-size: 18px;
+}
+
+.header_menu a:hover{color:black;}
+
+.header_link {padding-top: 6px;}
+
+.header_down{
+	margin-top:200px;
+}
+
+
+
+
+.content{
+	background-color:#42b8dd;
+	
+}
+
+
+
+.service-big-size{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.service-text h3 {
+	color: #FFF;
+	font-size: 50px;
+	
+}
+
+.service-feature{
+	color:white;
+}
+
+.service-feature-down {
+	margin-top:20px;
+}
+
+.service-feature span {
+	border: 3px solid #FFF;
+	padding: 20px;
+	border-radius: 40px;
+	font-size: 30px;
+	color: white;
+}
+
+.service-feature h4 {
+	color: white;
+	font-size: 20px;
+}
+
+.service-small{
+	background-color:white;
+}
+
+.service-small {background-color:#FFFFFF; padding-top:10px; padding-bottom:10px;}
+
+.service-small  ul{
+	background-color:#FFFFFF; color:black;margin:10px;
+	}
+
+.service-small span {
+	color: skyblue;
+	font-size: 20px;
+}
+
+
+
+
+.portfolio {
+	background-color:#ebebeb;
+}
+
+.portfolio-text {
+	margin-top: 70px;
+}
+
+.portfolio-text h3 {
+	font-size: 50px;
+}
+
+.portfolio-link {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.portfolio-link li {
+	border: 4px solid #87CEEB;
+	border-radius: 10px;
+	margin-right: 20px;
+}
+
+.portfolio-link li a {
+	color: #42B8DD;
+	font-size: 15px;
+}
+
+.portfolio-link li a:hover{background-color:skyblue; color:#FCFDFD; font-style:bold;}
+
+.portfolio-link li a:active{}
+
+
+.portfolio-thumbnail {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+
+.portfolio-thumbnail a{ 
+height:300px; background-color:#CCCCCC
+}
+
+.testimonial {
+	background-color: #666;
+	text-align: center;
+	color: white;
+}
+
+.testimonial h3 {
+	
+	color: #FFF;
+	margin-top: 50px;
+	font-size: 35px;
+}
+
+.testimonial img {
+	text-align:center;
+}
+
+/* =============== Our Team ================*/
+
+.team {
+	background-color: #FFF;
+	padding-bottom: 60px;
+}
+
+.team-text h3 {
+	color: #000;
+font-size: 70px;
+margin-bottom: 30px;
+padding-top: 80px;
+}
+
+.team-divission-up img{
+	width:218px; height:211px;
+}
+
+
+
+.team-divission-down {
+	line-height:5px;
+	padding-left:10px;
+}
+
+.team-divission-down  h2{
+	color: skyblue;
+}
+
+.team-divission-down h3{
+	
+}
+
+.team-divission-down p {
+	line-height: 17px;
+}
+
+ul.social {
+	list-style: outside none none;
+	display: inline-block;
+	margin-left: -110px;
+}
+
+ul.social li {
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 15px;
+	float: center;
+}
+
+ul.social li a {
+	border: 1px solid;
+	border-radius: 21px;
+	padding: 10px;
+	background-color: skyblue;
+	color: white;
+}
+
+/* ==============================================================
+=========================== counter ========================*/
+
+.counter-bg {
+	background-color: #666;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.counter{
+	color:white;
+}
+
+.counter h4 {
+	font-size: 40px;
+}
+
+.counter p{
+	font-size: 18px;
+}
+
+.counter img {
+	
+}
+
+
+/* ==============================================================
+=========================== Our Skills ========================*/
+
+.skills-bg {
+	background-color:white;
+}
+
+
+.skills-heading h3 {
+	color: black;
+	font-size: 70px;
+	margin-bottom: 50px;
+	margin-top: 70px;
+	
+}
+
+
+
+/* ==============================================================
+=========================== client ========================*/
+
+.client {
+	background-color:#7f7f7f;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+/* ==============================================================
+=========================== Contact Us ========================*/
+
+.contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #FFF;
+}
+
+.contact-heading h3 {
+	color: black;
+	font-size: 70px;
+	margin-bottom: 30px;
+}
+
+.contact-heading p {
+	line-height: 25px;
+	font-size: 18px;
+	margin-bottom: 35px;
+	color:black;
+}
+
+ul.social-icon {
+	list-style: outside none none;
+	font-size: 26px;
+	padding-left: 0px;
+}
+
+ul.social-icon li {
+	display: inline;
+	margin-left: 12px;
+}
+
+ul.social-icon li a {
+	color: skyblue;
+	margin-bottom: 20px;
+}
+
+
+.form-group {
+	margin-bottom: 30px;
+}
+
+
+.form-group input {
+	height: 55px;
+	border: 2px solid #000;
+	border-radius: 0px;
+	font-size: 20px;
+}
+
+.contact-form-message textarea {
+	border: 2px solid #000;
+	height: 100px;
+	font-size: 30px;
+	color: black;
+	border-radius: 0px;
+}
+
+.contact-form-message button {
+	height: 90px;
+	background-color: white;
+	color: skyblue;
+	font-size: 30px;
+	font-family: arial,bold;
+	border-radius: 15px;
+}
+
+
+
+
+/* ================================================================
+============================ Footer ============================*/
+
+footer {
+	text-align: center;
+	background-color: #CCC;
+	padding: 50px;
+	margin-top: 40px;
+}
+
+footer h2 {
+	color: #FFF;
+	font-family: arial;
+	font-size: 50px;
+}
+
+footer p {
+	font-size: 20px;
+	line-height: 30px;
+	color: #555555;
+}
+
+
+
+
+
+
+
+
+/*progress bar */
+
+
+.progress-pie-chart {
+width:200px;
+height: 200px;
+border-radius: 50%;
+background-color: #E5E5E5;
+position: relative;
+}
+.progress-pie-chart.gt-50 {
+background-color: #81CE97;
+}
+
+.ppc-progress {
+content: "";
+position: absolute;
+border-radius: 50%;
+left: calc(50% - 100px);
+top: calc(50% - 100px);
+width: 200px;
+height: 200px;
+clip: rect(0, 200px, 200px, 100px);
+}
+.ppc-progress .ppc-progress-fill {
+content: "";
+position: absolute;
+border-radius: 50%;
+left: calc(50% - 100px);
+top: calc(50% - 100px);
+width: 200px;
+height: 200px;
+clip: rect(0, 100px, 200px, 0);
+background: #81CE97;
+transform: rotate(60deg);
+}
+.gt-50 .ppc-progress {
+clip: rect(0, 100px, 200px, 0);
+}
+.gt-50 .ppc-progress .ppc-progress-fill {
+clip: rect(0, 200px, 200px, 100px);
+background: #fff;
+}
+
+.ppc-percents {
+content: "";
+position: absolute;
+border-radius: 50%;
+left: calc(50% - 173.91304px/2);
+top: calc(50% - 173.91304px/2);
+width: 173.91304px;
+height: 173.91304px;
+background: #fff;
+text-align: center;
+display: table;
+}
+.ppc-percents span {
+display: block;
+font-size: 2.6em;
+font-weight: bold;
+color: #000;
+}
+
+.pcc-percents-wrapper {
+display: table-cell;
+vertical-align: middle;
+}
+
+.progress-pie-chart {
+margin: 50px auto 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
